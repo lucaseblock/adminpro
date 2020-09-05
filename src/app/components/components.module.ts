@@ -10,6 +10,7 @@ import { ModalImageComponent } from './modal-image/modal-image.component';
 
 
 
+
 @NgModule({
   declarations: [
     IncrementadorComponent,
